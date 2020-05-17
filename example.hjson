@@ -1,0 +1,14 @@
+  {
+    "request":{
+    	"content": "xxxxxxxxxxxxxx",#information type text or html for premium
+    	"to": "example@example.com",
+    	"from": "example@example.com",
+    	"subject": "xxxxxxxxxxxxx"
+    },
+    "settings": {
+    	"user": "example@example.com",#mistmatch to
+    	"password": "pass  encrypt",#required encrypt base64 you password
+    	"server": "you domain" ,#smtp your domain
+    	"port": "por used  server"
+    }
+  }
