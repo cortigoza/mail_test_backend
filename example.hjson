@@ -6,7 +6,7 @@
     	"subject": "xxxxxxxxxxxxx"
     },
     "settings": {
-    	"user": "example@example.com",#mistmatch from
+    	"user": "example@example.com",#some from
     	"password": "pass  encrypt",#required encrypt base64 you password
     	"server": "you domain" ,#smtp your domain
     	"port": "por used  server"
