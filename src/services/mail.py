@@ -16,6 +16,7 @@ class mailCore:
             self.__dict__[x] = settings[x]
 
     def send(self, data):
+        print(self)
         request = data['request']
         mandatory_args = ["subject", "from", "to",
                           "content", "content_type"]  # required
